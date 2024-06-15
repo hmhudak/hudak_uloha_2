@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-f6664268fced17e82d81.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "hudak_uloha2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "hudak_uloha2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hudak_uloha2-Debug-d45c594cfad9b43790c3.json",
+					"name" : "hudak_uloha2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "hudak_uloha2_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hudak_uloha2_autogen-Debug-c70f06f6aa3c704a5801.json",
+					"name" : "hudak_uloha2_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "hudak_uloha2_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hudak_uloha2_autogen_timestamp_deps-Debug-f5fef80525124bc50735.json",
+					"name" : "hudak_uloha2_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/hudak.m-admin/Documents/hudak_uloha2/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug",
+		"source" : "C:/Users/hudak.m-admin/Documents/hudak_uloha2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

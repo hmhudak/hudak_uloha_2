@@ -1,0 +1,17 @@
+# ninja log v6
+7	752	7401628743424531	hudak_uloha2_autogen/timestamp	27a980ee36c56893
+7	752	7401628743424531	hudak_uloha2_autogen/mocs_compilation.cpp	27a980ee36c56893
+7	752	7401628743424531	C:/Users/hudak.m-admin/Documents/hudak_uloha2/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/hudak_uloha2_autogen/timestamp	27a980ee36c56893
+7	752	7401628743424531	C:/Users/hudak.m-admin/Documents/hudak_uloha2/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/hudak_uloha2_autogen/mocs_compilation.cpp	27a980ee36c56893
+758	3236	7401628744287678	CMakeFiles/hudak_uloha2.dir/hudak_uloha2_autogen/mocs_compilation.cpp.obj	a6ee91387a956d26
+761	3334	7401628744317783	CMakeFiles/hudak_uloha2.dir/main.cpp.obj	c36ecd5b5c9d2215
+765	3796	7401628744360555	CMakeFiles/hudak_uloha2.dir/mainwindow.cpp.obj	c0e4642ac0d1e018
+3796	4037	7401628774671709	hudak_uloha2.exe	191d4a3528f936a7
+46	1545	7401632030415199	hudak_uloha2_autogen/timestamp	27a980ee36c56893
+46	1545	7401632030415199	hudak_uloha2_autogen/mocs_compilation.cpp	27a980ee36c56893
+46	1545	7401632030415199	C:/Users/hudak.m-admin/Documents/hudak_uloha2/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/hudak_uloha2_autogen/timestamp	27a980ee36c56893
+46	1545	7401632030415199	C:/Users/hudak.m-admin/Documents/hudak_uloha2/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/hudak_uloha2_autogen/mocs_compilation.cpp	27a980ee36c56893
+1554	5392	7401632032034701	CMakeFiles/hudak_uloha2.dir/main.cpp.obj	c36ecd5b5c9d2215
+1547	5419	7401632031973424	CMakeFiles/hudak_uloha2.dir/hudak_uloha2_autogen/mocs_compilation.cpp.obj	a6ee91387a956d26
+1561	5603	7401632032107248	CMakeFiles/hudak_uloha2.dir/mainwindow.cpp.obj	c0e4642ac0d1e018
+5604	5866	7401632072529535	hudak_uloha2.exe	191d4a3528f936a7
